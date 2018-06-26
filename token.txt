@@ -1,1 +1,1 @@
-{"webapi_host":"https:\/\/community.steam-api.com\/","webapi_host_secure":"https:\/\/community.steam-api.com\/","token":"5c16024b3b8562c3d86c21df5edf9232","steamid":"76561198032405053","persona_name":"La Principessa Guerriera","success":1}
+{"webapi_host":"https:\/\/community.steam-api.com\/","webapi_host_secure":"https:\/\/community.steam-api.com\/","token":"5c16024b3b8562c3d86c21df9232","steamid":"","persona_name":"La Principessa Guerriera","success":1}
